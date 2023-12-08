@@ -20,7 +20,6 @@ This project aims to recreate the Netflix home page, providing a hands-on experi
 ## Features
 
 - **Responsive Design**: Ensure a seamless experience across various devices.
-- **Navigation Bar**: Mimic Netflix's sleek navigation bar for easy access to different sections.
 
 ## Installation
 
